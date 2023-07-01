@@ -150,3 +150,335 @@
 2023-06-30 18:48:12,951 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
 2023-06-30 18:48:33,119 : INFO : Test_loginPage : test_login_005 : 73 : TestCase test_login_005 Passed
 2023-06-30 18:48:33,119 : INFO : Test_loginPage : test_login_005 : 73 : TestCase test_login_005 Passed
+2023-07-01 10:27:09,496 : INFO : Test_registration : test_HomePageTitle__001 : 18 : TestCase test_HomePageTitle__001 Started....!
+2023-07-01 10:27:09,497 : INFO : Test_registration : test_HomePageTitle__001 : 20 : Initializing webdriver Is Done....!
+2023-07-01 10:27:09,667 : INFO : Test_registration : test_Registration__002 : 38 : TestCase test_Registration__002 Started....!
+2023-07-01 10:27:09,667 : INFO : Test_registration : test_Registration__002 : 40 : Initializing webdriver Is Done....!
+2023-07-01 10:27:14,554 : INFO : Test_registration : test_Registration__002 : 43 : Opening The URL Is Done....!
+2023-07-01 10:27:14,556 : INFO : Test_registration : test_HomePageTitle__001 : 22 : Opening The URL Is Done....!
+2023-07-01 10:27:14,574 : INFO : Test_registration : test_HomePageTitle__001 : 24 : Capturing The Page Title Is Done....!
+2023-07-01 10:27:14,574 : INFO : Test_registration : test_HomePageTitle__001 : 27 : test_HomePageTitle__001 Passed....!
+2023-07-01 10:27:15,182 : INFO : Test_registration : test_Registration__002 : 46 : Getting the Resgistration Link Is Successfully....!
+2023-07-01 10:27:15,624 : INFO : Test_registration : test_Registration__002 : 48 : Getting the Name Is Successfully....!
+2023-07-01 10:27:16,072 : INFO : Test_registration : test_Registration__002 : 50 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:27:16,431 : INFO : Test_registration : test_Registration__002 : 52 : Getting the Password Is Successfully....!
+2023-07-01 10:27:16,788 : INFO : Test_registration : test_Registration__002 : 54 : Getting the Confirmed Password Is Successfully....!
+2023-07-01 10:27:17,859 : INFO : Test_registration : test_Registration__002 : 56 : Getting the RegistrationButton Is Successfully....!
+2023-07-01 10:28:24,767 : INFO : Test_registration : test_HomePageTitle__001 : 18 : TestCase test_HomePageTitle__001 Started....!
+2023-07-01 10:28:24,768 : INFO : Test_registration : test_HomePageTitle__001 : 20 : Initializing webdriver Is Done....!
+2023-07-01 10:28:25,590 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 18 : TestCase test_loginPage_Cx_Oracle_006 Started....!
+2023-07-01 10:28:25,591 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 20 : Initializing webdriver Is Done....!
+2023-07-01 10:28:25,726 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:28:25,727 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:25,733 : INFO : Test_loginPage : test_login_003 : 14 : TestCase test_login_003 Started....!
+2023-07-01 10:28:25,733 : INFO : Test_loginPage : test_login_003 : 14 : TestCase test_login_003 Started....!
+2023-07-01 10:28:25,734 : INFO : Test_loginPage : test_login_003 : 16 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:25,734 : INFO : Test_loginPage : test_login_003 : 16 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:25,739 : INFO : Test_registration : test_Registration__002 : 38 : TestCase test_Registration__002 Started....!
+2023-07-01 10:28:25,740 : INFO : Test_registration : test_Registration__002 : 40 : Initializing webdriver Is Done....!
+2023-07-01 10:28:26,036 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:28:26,036 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:26,433 : INFO : Test_registration : test_HomePageTitle__001 : 22 : Opening The URL Is Done....!
+2023-07-01 10:28:26,444 : INFO : Test_registration : test_HomePageTitle__001 : 24 : Capturing The Page Title Is Done....!
+2023-07-01 10:28:26,445 : INFO : Test_registration : test_HomePageTitle__001 : 27 : test_HomePageTitle__001 Passed....!
+2023-07-01 10:28:26,799 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 23 : Opening The URL Is Done....!
+2023-07-01 10:28:27,165 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:28:27,205 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:28:27,238 : INFO : Test_registration : test_Registration__002 : 43 : Opening The URL Is Done....!
+2023-07-01 10:28:27,633 : INFO : Test_loginPage : test_login_003 : 19 : Opening The URL Is Done....!
+2023-07-01 10:28:27,633 : INFO : Test_loginPage : test_login_003 : 19 : Opening The URL Is Done....!
+2023-07-01 10:28:27,728 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:27,949 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:27,954 : INFO : Test_registration : test_Registration__002 : 46 : Getting the Resgistration Link Is Successfully....!
+2023-07-01 10:28:28,249 : INFO : Test_registration : test_Registration__002 : 48 : Getting the Name Is Successfully....!
+2023-07-01 10:28:28,473 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:28,598 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:28,603 : INFO : Test_loginPage : test_login_003 : 22 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:28,603 : INFO : Test_loginPage : test_login_003 : 22 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:28,730 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:28:28,915 : INFO : Test_registration : test_Registration__002 : 50 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:29,071 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:28:29,198 : INFO : Test_registration : test_Registration__002 : 52 : Getting the Password Is Successfully....!
+2023-07-01 10:28:29,468 : INFO : Test_loginPage : test_login_003 : 24 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:29,468 : INFO : Test_loginPage : test_login_003 : 24 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:29,517 : INFO : Test_registration : test_Registration__002 : 54 : Getting the Confirmed Password Is Successfully....!
+2023-07-01 10:28:29,620 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:29,705 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:28:29,705 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:28:29,720 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:29,753 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:28:29,753 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:28:29,882 : INFO : Test_login_param : test_login_param__004 : 39 :  getDataForLgoIn[2]=='Pass' is Failed....!
+2023-07-01 10:28:29,956 : INFO : Test_loginPage : test_login_003 : 26 : Getting the Password Is Successfully....!
+2023-07-01 10:28:29,956 : INFO : Test_loginPage : test_login_003 : 26 : Getting the Password Is Successfully....!
+2023-07-01 10:28:30,053 : INFO : Test_login_param : test_login_param__004 : 32 :  getDataForLgoIn[2]=='Pass' is Passed....!
+2023-07-01 10:28:30,302 : INFO : Test_registration : test_Registration__002 : 56 : Getting the RegistrationButton Is Successfully....!
+2023-07-01 10:28:30,306 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:30,530 : INFO : Test_login_param : test_login_param__004 : 34 : Getting the MenuButton Is Successfully....!
+2023-07-01 10:28:31,471 : INFO : Test_loginPage : test_login_003 : 28 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:31,471 : INFO : Test_loginPage : test_login_003 : 28 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:31,570 : INFO : Test_login_param : test_login_param__004 : 36 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:28:31,801 : INFO : Test_loginPage : test_login_003 : 30 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:28:31,801 : INFO : Test_loginPage : test_login_003 : 30 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:28:31,802 : INFO : Test_loginPage : test_login_003 : 33 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:31,802 : INFO : Test_loginPage : test_login_003 : 33 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:32,132 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:28:32,133 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:33,304 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:28:34,062 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:34,270 : INFO : Test_loginPage : test_login_005 : 17 : TestCase test_login_005 Started....!
+2023-07-01 10:28:34,270 : INFO : Test_loginPage : test_login_005 : 17 : TestCase test_login_005 Started....!
+2023-07-01 10:28:34,271 : INFO : Test_loginPage : test_login_005 : 19 : Initializing webdriver Is Done....!
+2023-07-01 10:28:34,271 : INFO : Test_loginPage : test_login_005 : 19 : Initializing webdriver Is Done....!
+2023-07-01 10:28:34,481 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:34,609 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:28:35,200 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:35,221 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:28:35,221 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:28:35,277 : INFO : Test_loginPage : test_login_005 : 22 : Opening The URL Is Done....!
+2023-07-01 10:28:35,277 : INFO : Test_loginPage : test_login_005 : 22 : Opening The URL Is Done....!
+2023-07-01 10:28:35,367 : INFO : Test_login_param : test_login_param__004 : 39 :  getDataForLgoIn[2]=='Pass' is Failed....!
+2023-07-01 10:28:35,512 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:40,756 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:28:41,299 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:41,299 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:45,364 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:28:45,365 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:28:46,621 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:28:46,685 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:46,730 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:46,730 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:47,214 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:28:47,668 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:28:47,848 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:28:48,501 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:48,529 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:28:48,530 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:28:48,734 : INFO : Test_login_param : test_login_param__004 : 39 :  getDataForLgoIn[2]=='Pass' is Failed....!
+2023-07-01 10:28:51,723 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:28:52,021 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 54 : Click on Menu button
+2023-07-01 10:28:52,216 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:28:52,216 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:28:55,779 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 57 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:28:58,351 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:58,351 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:28:59,253 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:29:03,390 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:29:03,390 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:29:03,650 : INFO : Test_loginPage : test_login_005 : 51 : Click on Menu button
+2023-07-01 10:29:03,650 : INFO : Test_loginPage : test_login_005 : 51 : Click on Menu button
+2023-07-01 10:29:04,694 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:29:08,089 : INFO : Test_loginPage : test_login_005 : 54 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:29:08,089 : INFO : Test_loginPage : test_login_005 : 54 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:29:10,084 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:29:15,714 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:29:16,796 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:29:16,796 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:29:20,749 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:29:22,297 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:29:22,297 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:29:27,782 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:29:27,782 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:29:34,091 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:29:34,091 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:29:39,129 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:29:39,129 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:29:41,590 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:29:46,978 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:29:52,449 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:29:58,971 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:30:03,999 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:30:05,414 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:30:05,414 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:30:10,851 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:30:10,851 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:30:16,290 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:30:16,290 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:30:22,636 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:30:22,636 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:30:24,980 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:30:27,677 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:30:27,677 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:30:30,442 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:30:35,901 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:30:41,612 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:30:46,647 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:30:54,229 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:30:54,229 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:30:59,720 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:30:59,720 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:31:05,206 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:31:05,206 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:31:06,774 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 75 : TestCase TestCase test_loginPage_Cx_Oracle_006 Passed
+2023-07-01 10:31:11,273 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:31:11,273 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:31:16,307 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:31:16,307 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:31:36,413 : INFO : Test_loginPage : test_login_005 : 73 : TestCase test_login_005 Passed
+2023-07-01 10:31:36,413 : INFO : Test_loginPage : test_login_005 : 73 : TestCase test_login_005 Passed
+2023-07-01 10:39:15,944 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:39:15,945 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:15,964 : INFO : Test_registration : test_Registration__002 : 38 : TestCase test_Registration__002 Started....!
+2023-07-01 10:39:15,965 : INFO : Test_registration : test_Registration__002 : 40 : Initializing webdriver Is Done....!
+2023-07-01 10:39:15,975 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:39:15,976 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:15,984 : INFO : Test_registration : test_HomePageTitle__001 : 18 : TestCase test_HomePageTitle__001 Started....!
+2023-07-01 10:39:15,985 : INFO : Test_registration : test_HomePageTitle__001 : 20 : Initializing webdriver Is Done....!
+2023-07-01 10:39:15,987 : INFO : Test_loginPage : test_login_003 : 14 : TestCase test_login_003 Started....!
+2023-07-01 10:39:15,987 : INFO : Test_loginPage : test_login_003 : 14 : TestCase test_login_003 Started....!
+2023-07-01 10:39:15,988 : INFO : Test_loginPage : test_login_003 : 16 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:15,988 : INFO : Test_loginPage : test_login_003 : 16 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:16,055 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 18 : TestCase test_loginPage_Cx_Oracle_006 Started....!
+2023-07-01 10:39:16,056 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 20 : Initializing webdriver Is Done....!
+2023-07-01 10:39:17,736 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 23 : Opening The URL Is Done....!
+2023-07-01 10:39:17,797 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:39:17,805 : INFO : Test_registration : test_Registration__002 : 43 : Opening The URL Is Done....!
+2023-07-01 10:39:17,815 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:39:17,818 : INFO : Test_loginPage : test_login_003 : 19 : Opening The URL Is Done....!
+2023-07-01 10:39:17,818 : INFO : Test_loginPage : test_login_003 : 19 : Opening The URL Is Done....!
+2023-07-01 10:39:17,825 : INFO : Test_registration : test_HomePageTitle__001 : 22 : Opening The URL Is Done....!
+2023-07-01 10:39:18,012 : INFO : Test_registration : test_HomePageTitle__001 : 24 : Capturing The Page Title Is Done....!
+2023-07-01 10:39:18,012 : INFO : Test_registration : test_HomePageTitle__001 : 27 : test_HomePageTitle__001 Passed....!
+2023-07-01 10:39:18,393 : INFO : Test_loginPage : test_login_003 : 22 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:18,393 : INFO : Test_loginPage : test_login_003 : 22 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:18,537 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:18,541 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:18,641 : INFO : Test_registration : test_Registration__002 : 46 : Getting the Resgistration Link Is Successfully....!
+2023-07-01 10:39:18,708 : INFO : Test_loginPage : test_login_003 : 24 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:18,708 : INFO : Test_loginPage : test_login_003 : 24 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:18,720 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:18,965 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:18,995 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:19,157 : INFO : Test_registration : test_Registration__002 : 48 : Getting the Name Is Successfully....!
+2023-07-01 10:39:19,283 : INFO : Test_loginPage : test_login_003 : 26 : Getting the Password Is Successfully....!
+2023-07-01 10:39:19,283 : INFO : Test_loginPage : test_login_003 : 26 : Getting the Password Is Successfully....!
+2023-07-01 10:39:19,528 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:39:19,596 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:39:19,657 : INFO : Test_registration : test_Registration__002 : 50 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:19,840 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:39:19,841 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:19,905 : INFO : Test_registration : test_Registration__002 : 52 : Getting the Password Is Successfully....!
+2023-07-01 10:39:20,067 : INFO : Test_registration : test_Registration__002 : 54 : Getting the Confirmed Password Is Successfully....!
+2023-07-01 10:39:20,097 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:20,131 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:39:20,131 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:39:20,316 : INFO : Test_login_param : test_login_param__004 : 39 :  getDataForLgoIn[2]=='Pass' is Failed....!
+2023-07-01 10:39:20,459 : INFO : Test_registration : test_Registration__002 : 56 : Getting the RegistrationButton Is Successfully....!
+2023-07-01 10:39:20,570 : INFO : Test_loginPage : test_login_003 : 28 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:20,570 : INFO : Test_loginPage : test_login_003 : 28 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:20,594 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:20,607 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:39:20,608 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:39:20,640 : INFO : Test_loginPage : test_login_003 : 30 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:39:20,640 : INFO : Test_loginPage : test_login_003 : 30 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:39:20,640 : INFO : Test_loginPage : test_login_003 : 33 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:20,640 : INFO : Test_loginPage : test_login_003 : 33 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:20,727 : INFO : Test_login_param : test_login_param__004 : 32 :  getDataForLgoIn[2]=='Pass' is Passed....!
+2023-07-01 10:39:20,838 : INFO : Test_login_param : test_login_param__004 : 34 : Getting the MenuButton Is Successfully....!
+2023-07-01 10:39:20,944 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:39:21,283 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:21,393 : INFO : Test_login_param : test_login_param__004 : 36 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:39:21,691 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:22,010 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:39:22,282 : INFO : Test_loginPage : test_login_005 : 17 : TestCase test_login_005 Started....!
+2023-07-01 10:39:22,282 : INFO : Test_loginPage : test_login_005 : 17 : TestCase test_login_005 Started....!
+2023-07-01 10:39:22,283 : INFO : Test_loginPage : test_login_005 : 19 : Initializing webdriver Is Done....!
+2023-07-01 10:39:22,283 : INFO : Test_loginPage : test_login_005 : 19 : Initializing webdriver Is Done....!
+2023-07-01 10:39:22,527 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:22,538 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:39:22,538 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:39:22,699 : INFO : Test_login_param : test_login_param__004 : 39 :  getDataForLgoIn[2]=='Pass' is Failed....!
+2023-07-01 10:39:23,334 : INFO : Test_loginPage : test_login_005 : 22 : Opening The URL Is Done....!
+2023-07-01 10:39:23,334 : INFO : Test_loginPage : test_login_005 : 22 : Opening The URL Is Done....!
+2023-07-01 10:39:24,172 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:29,175 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:29,175 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:29,478 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:39:35,762 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:35,762 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:35,852 : INFO : Test_login_param : test_login_param__004 : 10 : TestCase test_login_param__004 Started....!
+2023-07-01 10:39:35,852 : INFO : Test_login_param : test_login_param__004 : 12 : TestCase test_login_003 Passed....!
+2023-07-01 10:39:36,054 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:36,903 : INFO : Test_login_param : test_login_param__004 : 15 : Opening The URL Is Done....!
+2023-07-01 10:39:37,490 : INFO : Test_login_param : test_login_param__004 : 18 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:37,891 : INFO : Test_login_param : test_login_param__004 : 20 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:38,271 : INFO : Test_login_param : test_login_param__004 : 22 : Getting the Password Is Successfully....!
+2023-07-01 10:39:38,799 : INFO : Test_login_param : test_login_param__004 : 24 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:38,894 : INFO : Test_login_param : test_login_param__004 : 26 : Capturing The Page Title Is Successfully....!
+2023-07-01 10:39:38,894 : INFO : Test_login_param : test_login_param__004 : 29 :  act_title and exp_title is Passed....!
+2023-07-01 10:39:39,165 : INFO : Test_login_param : test_login_param__004 : 39 :  getDataForLgoIn[2]=='Pass' is Failed....!
+2023-07-01 10:39:41,083 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:39:41,225 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:39:41,225 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:39:41,309 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 54 : Click on Menu button
+2023-07-01 10:39:45,476 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 57 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:39:47,323 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:47,323 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:39:49,155 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:39:52,367 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:39:52,367 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:39:52,662 : INFO : Test_loginPage : test_login_005 : 51 : Click on Menu button
+2023-07-01 10:39:52,662 : INFO : Test_loginPage : test_login_005 : 51 : Click on Menu button
+2023-07-01 10:39:54,605 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:39:56,670 : INFO : Test_loginPage : test_login_005 : 54 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:39:56,670 : INFO : Test_loginPage : test_login_005 : 54 : Getting the LogOutButton Is Successfully....!
+2023-07-01 10:39:59,903 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:40:05,409 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:40:05,409 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:40:05,645 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:40:10,676 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:40:10,895 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:40:10,895 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:40:16,359 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:40:16,359 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:40:21,999 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:40:21,999 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:40:27,036 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:40:27,036 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:40:31,625 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:40:37,140 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:40:42,558 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:40:48,610 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:40:52,734 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:40:52,734 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:40:53,646 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:40:58,294 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:40:58,294 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:41:03,511 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:41:03,511 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:41:09,505 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:41:09,505 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:41:14,307 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 36 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:41:14,541 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:41:14,541 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:41:19,535 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 39 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:41:25,000 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 42 : Getting the Password Is Successfully....!
+2023-07-01 10:41:30,743 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 45 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:41:35,766 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 48 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:41:40,235 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:41:40,235 : INFO : Test_loginPage : test_login_005 : 33 : Getting the getLogInLink Link Is Successfully....!
+2023-07-01 10:41:45,716 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:41:45,716 : INFO : Test_loginPage : test_login_005 : 36 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:41:51,206 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:41:51,206 : INFO : Test_loginPage : test_login_005 : 39 : Getting the Password Is Successfully....!
+2023-07-01 10:41:55,902 : INFO : Test_loginPage_Cx_Oracle : test_loginPage_Cx_Oracle_006 : 75 : TestCase TestCase test_loginPage_Cx_Oracle_006 Passed
+2023-07-01 10:41:57,145 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:41:57,145 : INFO : Test_loginPage : test_login_005 : 42 : Getting the LoginButton Is Successfully....!
+2023-07-01 10:42:02,184 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:42:02,184 : INFO : Test_loginPage : test_login_005 : 45 : Capturing The Page Title Is Successfully....>"{self.act_Title}"!
+2023-07-01 10:42:22,282 : INFO : Test_loginPage : test_login_005 : 73 : TestCase test_login_005 Passed
+2023-07-01 10:42:22,282 : INFO : Test_loginPage : test_login_005 : 73 : TestCase test_login_005 Passed
+2023-07-01 10:51:18,895 : INFO : Test_registration : test_Registration__002 : 38 : TestCase test_Registration__002 Started....!
+2023-07-01 10:51:18,896 : INFO : Test_registration : test_Registration__002 : 40 : Initializing webdriver Is Done....!
+2023-07-01 10:51:19,082 : INFO : Test_registration : test_HomePageTitle__001 : 18 : TestCase test_HomePageTitle__001 Started....!
+2023-07-01 10:51:19,082 : INFO : Test_registration : test_HomePageTitle__001 : 20 : Initializing webdriver Is Done....!
+2023-07-01 10:51:32,265 : INFO : Test_registration : test_HomePageTitle__001 : 22 : Opening The URL Is Done....!
+2023-07-01 10:51:32,266 : INFO : Test_registration : test_Registration__002 : 43 : Opening The URL Is Done....!
+2023-07-01 10:51:32,275 : INFO : Test_registration : test_HomePageTitle__001 : 24 : Capturing The Page Title Is Done....!
+2023-07-01 10:51:32,276 : INFO : Test_registration : test_HomePageTitle__001 : 27 : test_HomePageTitle__001 Passed....!
+2023-07-01 10:51:33,261 : INFO : Test_registration : test_Registration__002 : 46 : Getting the Resgistration Link Is Successfully....!
+2023-07-01 10:51:33,651 : INFO : Test_registration : test_Registration__002 : 48 : Getting the Name Is Successfully....!
+2023-07-01 10:51:34,205 : INFO : Test_registration : test_Registration__002 : 50 : Getting the Email_Name Is Successfully....!
+2023-07-01 10:51:34,345 : INFO : Test_registration : test_Registration__002 : 52 : Getting the Password Is Successfully....!
+2023-07-01 10:51:34,524 : INFO : Test_registration : test_Registration__002 : 54 : Getting the Confirmed Password Is Successfully....!
+2023-07-01 10:51:35,234 : INFO : Test_registration : test_Registration__002 : 56 : Getting the RegistrationButton Is Successfully....!
